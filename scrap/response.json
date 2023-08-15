@@ -1,0 +1,1312 @@
+{
+  "items": [
+    {
+      "tags": [
+        "azure",
+        "azure-cosmosdb",
+        "azure-cli",
+        "azure-cosmosdb-sqlapi"
+      ],
+      "owner": {
+        "reputation": 613,
+        "user_id": 1398786,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a0bc274ff7741d5ca9b69f8dd2c086fc?s=256&d=identicon&r=PG",
+        "display_name": "vmaroli",
+        "link": "https://stackoverflow.com/users/1398786/vmaroli"
+      },
+      "is_answered": false,
+      "view_count": 1,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016259,
+      "creation_date": 1692016259,
+      "question_id": 76898949,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898949/azure-cosmos-database-for-sql-is-there-a-way-to-create-container-having-hierar",
+      "title": "Azure cosmos database for SQL - Is there a way to create container having hierarchical partition keys from azure cli"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "dictionary",
+        "sum"
+      ],
+      "owner": {
+        "reputation": 307,
+        "user_id": 12960303,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5856ee44f9a8513c6253845829903ba2?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "and1",
+        "link": "https://stackoverflow.com/users/12960303/and1"
+      },
+      "is_answered": false,
+      "view_count": 746,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1692016250,
+      "creation_date": 1588969133,
+      "last_edit_date": 1592644375,
+      "question_id": 61687452,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/61687452/three-number-sum-finding-triplets-that-sum-to-target",
+      "title": "Three Number Sum - Finding triplets that sum to target"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "group-by",
+        "rolling-computation"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 22387563,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/348a1717477fbb41a280fb6720e92371?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Reyh",
+        "link": "https://stackoverflow.com/users/22387563/reyh"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1692016249,
+      "creation_date": 1692013071,
+      "last_edit_date": 1692016249,
+      "question_id": 76898619,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898619/python-pandas-how-to-flag-n-next-rows-satisfying-some-conditions-identify-per",
+      "title": "Python Pandas: How to flag n next rows satisfying some conditions? (Identify period after shortage)"
+    },
+    {
+      "tags": [
+        "mysql",
+        "linux",
+        "bash",
+        "backticks"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22388145,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtemaEQBRJnyn6udsvK6y1HGqR2rl6RiCulpC1RMBjXN=k-s256",
+        "display_name": "telbarus",
+        "link": "https://stackoverflow.com/users/22388145/telbarus"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016246,
+      "creation_date": 1692016175,
+      "last_edit_date": 1692016246,
+      "question_id": 76898940,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898940/using-a-sql-as-a-parameter-of-a-bash-script",
+      "title": "Using a SQL as a parameter of a Bash script"
+    },
+    {
+      "tags": [
+        "python",
+        "django",
+        "database",
+        "orm"
+      ],
+      "owner": {
+        "reputation": 972,
+        "user_id": 1794743,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/510c1be7a2a7fa52e61a8a3794c79d9f?s=256&d=identicon&r=PG",
+        "display_name": "binarysmacker",
+        "link": "https://stackoverflow.com/users/1794743/binarysmacker"
+      },
+      "is_answered": true,
+      "view_count": 38228,
+      "answer_count": 6,
+      "score": 41,
+      "last_activity_date": 1692016230,
+      "creation_date": 1416510734,
+      "last_edit_date": 1666678319,
+      "question_id": 27047630,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/27047630/django-batching-bulk-update-or-create",
+      "title": "Django batching/bulk update_or_create?"
+    },
+    {
+      "tags": [
+        "android",
+        "kotlin",
+        "kotlin-coroutines",
+        "coroutine",
+        "kotlin-flow"
+      ],
+      "owner": {
+        "reputation": 299,
+        "user_id": 8775993,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/cf0fbbcc3d6913b48efaa1a880868fc9?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "SURYA N",
+        "link": "https://stackoverflow.com/users/8775993/surya-n"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016228,
+      "creation_date": 1692015847,
+      "last_edit_date": 1692016228,
+      "question_id": 76898909,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898909/suspend-coroutiness-execution-for-multiple-callback-update",
+      "title": "Suspend Coroutines&#39;s execution for multiple callback update"
+    },
+    {
+      "tags": [
+        ".net",
+        "docker",
+        "visual-studio-code"
+      ],
+      "owner": {
+        "reputation": 252,
+        "user_id": 11145976,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/10157017162864402/picture?type=large",
+        "display_name": "Jamie Garcia",
+        "link": "https://stackoverflow.com/users/11145976/jamie-garcia"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016226,
+      "creation_date": 1692015994,
+      "last_edit_date": 1692016226,
+      "question_id": 76898918,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898918/docker-compose-command-fails-in-vs-code",
+      "title": "Docker Compose command fails in VS CODE"
+    },
+    {
+      "tags": [
+        "gpu"
+      ],
+      "owner": {
+        "reputation": 2259,
+        "user_id": 4851368,
+        "user_type": "registered",
+        "accept_rate": 31,
+        "profile_image": "https://i.stack.imgur.com/T3sh8.jpg?s=256&g=1",
+        "display_name": "dbl001",
+        "link": "https://stackoverflow.com/users/4851368/dbl001"
+      },
+      "is_answered": true,
+      "view_count": 186950,
+      "answer_count": 25,
+      "score": 52,
+      "last_activity_date": 1692016220,
+      "creation_date": 1490295525,
+      "last_edit_date": 1497518785,
+      "question_id": 42984743,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/42984743/nvidia-smi-has-failed-because-it-couldnt-communicate-with-the-nvidia-driver",
+      "title": "NVIDIA-SMI has failed because it couldn&#39;t communicate with the NVIDIA driver"
+    },
+    {
+      "tags": [
+        "c++",
+        "lambda",
+        "autosar"
+      ],
+      "owner": {
+        "reputation": 107,
+        "user_id": 14723348,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgoudjlmWk_W0zSXP-_ot2sHOACSdMyREsknswe=k-s256",
+        "display_name": "Trilokinath Modi",
+        "link": "https://stackoverflow.com/users/14723348/trilokinath-modi"
+      },
+      "is_answered": true,
+      "view_count": 43,
+      "accepted_answer_id": 76898899,
+      "answer_count": 1,
+      "score": -3,
+      "last_activity_date": 1692016211,
+      "creation_date": 1692014599,
+      "last_edit_date": 1692016211,
+      "question_id": 76898794,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898794/how-to-interpret-the-lambda-function-as-shown",
+      "title": "How to interpret the lambda function as shown?"
+    },
+    {
+      "tags": [
+        "c#",
+        "charts",
+        "datatable"
+      ],
+      "owner": {
+        "reputation": 75,
+        "user_id": 1847000,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/16c7e776257658cf35c05f82a0d32ade?s=256&d=identicon&r=PG",
+        "display_name": "Jan Hakl",
+        "link": "https://stackoverflow.com/users/1847000/jan-hakl"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016210,
+      "creation_date": 1692016210,
+      "question_id": 76898945,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898945/c-chart-with-moving-focus-on-x-axis",
+      "title": "C# Chart with moving focus on x axis"
+    },
+    {
+      "tags": [
+        "javascript",
+        "excel",
+        "typescript",
+        "office-scripts"
+      ],
+      "owner": {
+        "reputation": 51,
+        "user_id": 19725585,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8cf012f69741814072c7f7a7b61a476a?s=256&d=identicon&r=PG",
+        "display_name": "FeddeHasQuestion",
+        "link": "https://stackoverflow.com/users/19725585/feddehasquestion"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016210,
+      "creation_date": 1692016210,
+      "question_id": 76898946,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898946/load-pixel-data-from-image-in-office-scripts",
+      "title": "Load pixel data from image in Office scripts"
+    },
+    {
+      "tags": [
+        "sql",
+        "sum",
+        "rank"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22387758,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d8ab2e1e1d84ecc0a70e199344f2c52e?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Abhilash_P",
+        "link": "https://stackoverflow.com/users/22387758/abhilash-p"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016210,
+      "creation_date": 1692015086,
+      "last_edit_date": 1692016210,
+      "question_id": 76898832,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898832/how-to-get-2-and-3rd-rank-student-from-total-marks-sum-of-marks",
+      "title": "How to get 2 and 3rd rank student from total Marks (Sum of Marks)"
+    },
+    {
+      "tags": [
+        "javascript",
+        "xterm"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 14960863,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a1a201d487043bd08ecb4866941dd5d6?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "ivenoidea",
+        "link": "https://stackoverflow.com/users/14960863/ivenoidea"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016208,
+      "creation_date": 1692014152,
+      "last_edit_date": 1692016208,
+      "question_id": 76898738,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898738/xterm-js-term-ondata-is-not-a-function",
+      "title": "xterm.js term.onData is not a function"
+    },
+    {
+      "tags": [
+        "python",
+        "numbers"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 22371743,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/715c3645d9e3414d336151209ef34bb6?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Brendan Carey",
+        "link": "https://stackoverflow.com/users/22371743/brendan-carey"
+      },
+      "is_answered": true,
+      "view_count": 28,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1692016202,
+      "creation_date": 1692015104,
+      "question_id": 76898835,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898835/unique-number-generator-in-python",
+      "title": "Unique Number Generator in Python"
+    },
+    {
+      "tags": [
+        "io",
+        "garbage-collection",
+        "virtual-machine"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 19133275,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2c0ed76c6b6414bab125d277ea87b71e?s=256&d=identicon&r=PG",
+        "display_name": "Ajay",
+        "link": "https://stackoverflow.com/users/19133275/ajay"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016200,
+      "creation_date": 1692016146,
+      "last_edit_date": 1692016200,
+      "question_id": 76898935,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898935/unknown-vm-pauses",
+      "title": "Unknown VM Pauses"
+    },
+    {
+      "tags": [
+        "groovy",
+        "nextflow"
+      ],
+      "owner": {
+        "reputation": 830,
+        "user_id": 2740831,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/7a2d762804ac528c67028f84cf6e6a1f?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Death Metal",
+        "link": "https://stackoverflow.com/users/2740831/death-metal"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016194,
+      "creation_date": 1692016194,
+      "question_id": 76898944,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898944/nextflow-groovy-how-to-emit-file-from-nested-folder-generated-by-tool",
+      "title": "nextflow-groovy: how to emit file from nested folder generated by tool"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 39,
+        "user_id": 11986993,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5e4dd64222d5d42f5261c8c589dcd154?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Nitin Sharma",
+        "link": "https://stackoverflow.com/users/11986993/nitin-sharma"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016194,
+      "creation_date": 1692016194,
+      "question_id": 76898943,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898943/line-decoding-error-due-to-utf-8-codec-cant-decode-byte-0xa9-in-position-8",
+      "title": "Line decoding error due to &#39;utf-8&#39; codec can&#39;t decode byte 0xa9 in position 8:&#39; while reading log file line by line using python"
+    },
+    {
+      "tags": [
+        "flutter",
+        "responsive-design",
+        "mobile-application"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22388186,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTte9jIDJtBMT77jqOWxtdadJtzAsF77mBJwHr0ZrXTsCOYI=k-s256",
+        "display_name": "Rudra Menaria",
+        "link": "https://stackoverflow.com/users/22388186/rudra-menaria"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016193,
+      "creation_date": 1692016193,
+      "question_id": 76898942,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898942/what-are-the-different-resolution-bounds-for-creating-responsive-mobile-ui",
+      "title": "what are the different resolution bounds for creating responsive mobile ui"
+    },
+    {
+      "tags": [
+        "python",
+        "machine-learning",
+        "data-analysis",
+        "analysis"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12518991,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ce71f00992f5bb5bad6fde3272a19daa?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "HARSH PATEL ",
+        "link": "https://stackoverflow.com/users/12518991/harsh-patel"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1692016188,
+      "creation_date": 1691983626,
+      "question_id": 76896107,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76896107/valueerror-cannot-use-mean-strategy-with-non-numeric-data-could-not-convert-st",
+      "title": "ValueError: Cannot use mean strategy with non-numeric data: could not convert string to float:"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-7"
+      ],
+      "owner": {
+        "reputation": 195,
+        "user_id": 16447622,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/520c55e580314ff63951b93b5200dd65?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Mr.Code",
+        "link": "https://stackoverflow.com/users/16447622/mr-code"
+      },
+      "is_answered": false,
+      "view_count": 32,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1692016182,
+      "creation_date": 1691518215,
+      "question_id": 76862180,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76862180/many-to-many-table-with-extra-assoaciations-columns",
+      "title": "Many to Many table with extra assoaciations/columns"
+    },
+    {
+      "tags": [
+        "django",
+        "django-models",
+        "django-forms",
+        "django-templates",
+        "django-views"
+      ],
+      "owner": {
+        "reputation": 23,
+        "user_id": 10730923,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/58310c3c877df28c86ba7aeaef2e6c2e?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Krya Krya",
+        "link": "https://stackoverflow.com/users/10730923/krya-krya"
+      },
+      "is_answered": true,
+      "view_count": 2369,
+      "accepted_answer_id": 53692929,
+      "answer_count": 4,
+      "score": 2,
+      "last_activity_date": 1692016167,
+      "creation_date": 1544362612,
+      "last_edit_date": 1544363106,
+      "question_id": 53692884,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/53692884/noreversematch-at-polls-reverse-for-vote-with-arguments-not-found-1",
+      "title": "NoReverseMatch at /polls/ Reverse for &#39;vote&#39; with arguments &#39;(&#39;&#39;,)&#39; not found. 1 pattern(s) tried: [&#39;polls/(?P&lt;question_id&gt;[0-9]+)/vote/$&#39;]"
+    },
+    {
+      "tags": [
+        "kernel",
+        "conda",
+        "google-cloud-vertex-ai"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22380314,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtcOCbhocc-ltKrZoU5okKvAbnwb9XePTxndYQlG3zI3tjQ=k-s256",
+        "display_name": "Pavel Shumkovskii",
+        "link": "https://stackoverflow.com/users/22380314/pavel-shumkovskii"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016166,
+      "creation_date": 1691856243,
+      "last_edit_date": 1692016166,
+      "question_id": 76890095,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76890095/google-vertex-ui-does-not-show-correct-kernel-name",
+      "title": "Google Vertex UI does not show correct kernel name"
+    },
+    {
+      "tags": [
+        "google-signin",
+        "google-people-api"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22387680,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtfkCVxJYAJvclT_yQ3de0wtm-YNqJX5C6W5qygi7PdOrw=k-s256",
+        "display_name": "Deepanshu Chauhan",
+        "link": "https://stackoverflow.com/users/22387680/deepanshu-chauhan"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016163,
+      "creation_date": 1692016163,
+      "question_id": 76898938,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898938/how-to-retrieve-date-of-birth-from-google-people-api-for-mvc-application",
+      "title": "How to retrieve date of birth from google people api for mvc application"
+    },
+    {
+      "tags": [
+        "php",
+        "laravel",
+        "amazon-s3",
+        "pdftotext"
+      ],
+      "owner": {
+        "reputation": 433,
+        "user_id": 9708609,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ed89c006da7d7d52a209c5014fdc1f78?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "aseel",
+        "link": "https://stackoverflow.com/users/9708609/aseel"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016160,
+      "creation_date": 1692016160,
+      "question_id": 76898937,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898937/how-can-i-search-a-keyword-or-text-at-a-time-in-multiple-pdfs-which-is-saved-in",
+      "title": "How can i search a keyword or text at a time in multiple pdfs which is saved in s3 using Laravel and vuejs"
+    },
+    {
+      "tags": [
+        "django",
+        "django-rest-framework-simplejwt",
+        "django-unittest"
+      ],
+      "owner": {
+        "reputation": 1017,
+        "user_id": 6213939,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/bdf05cfcb2567bc2302a64d8dea5cb19?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Echchama Nayak",
+        "link": "https://stackoverflow.com/users/6213939/echchama-nayak"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1692016154,
+      "creation_date": 1691992951,
+      "last_edit_date": 1692008484,
+      "question_id": 76896594,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76896594/jwt-decode-giving-empty-username-in-django-unittest-while-using-request-meta",
+      "title": "jwt decode giving empty username in django unittest while using request.META"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "express"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22387934,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AFdZucoi_YiPacD8LTmwD3mkBiMx89_d3Uts84USLcK3jw=k-s256",
+        "display_name": "sagar regmi",
+        "link": "https://stackoverflow.com/users/22387934/sagar-regmi"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1692016147,
+      "creation_date": 1692013653,
+      "last_edit_date": 1692016147,
+      "question_id": 76898689,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898689/query-prototype-exec-no-longer-accepts-a-callback",
+      "title": "Query.prototype.exec() no longer accepts a callback"
+    },
+    {
+      "tags": [
+        "javascript",
+        "post",
+        "axios",
+        "content-type"
+      ],
+      "owner": {
+        "reputation": 63,
+        "user_id": 9777326,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/08bff1fa15d1331cf36004c868ebee4c?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Learner",
+        "link": "https://stackoverflow.com/users/9777326/learner"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "answer_count": 0,
+      "score": 2,
+      "last_activity_date": 1692016128,
+      "creation_date": 1692013431,
+      "last_edit_date": 1692016128,
+      "question_id": 76898659,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898659/content-type-is-not-added-to-axios-post-request-headers",
+      "title": "Content-Type is not added to axios post request headers"
+    },
+    {
+      "tags": [
+        "ansible"
+      ],
+      "owner": {
+        "reputation": 31,
+        "user_id": 6523998,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-Xwa7ASFB_PM/AAAAAAAAAAI/AAAAAAAAAxo/lR6Sxl1IFi4/photo.jpg?sz=256",
+        "display_name": "Emre Hayta",
+        "link": "https://stackoverflow.com/users/6523998/emre-hayta"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1692016128,
+      "creation_date": 1692010821,
+      "last_edit_date": 1692015290,
+      "question_id": 76898366,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898366/ansible-when-condition-does-not-work-with-custom-variables",
+      "title": "Ansible - when condition does not work with custom variables"
+    },
+    {
+      "tags": [
+        "react-native",
+        "expo",
+        "google-play",
+        "google-play-console"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22088835,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/9UJao.jpg?s=256&g=1",
+        "display_name": "Lucas",
+        "link": "https://stackoverflow.com/users/22088835/lucas"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016121,
+      "creation_date": 1692016121,
+      "question_id": 76898933,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898933/what-is-happening-with-the-ability-to-switch-between-screens",
+      "title": "What is happening with the ability to switch between screens?"
+    },
+    {
+      "tags": [
+        "flutter",
+        "dart",
+        "flutter-dependencies"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 13744418,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gj06quNQ-YYiJtHMMhdcLyBSSpAEDT_77aWM0Km=k-s256",
+        "display_name": "Godfrey John",
+        "link": "https://stackoverflow.com/users/13744418/godfrey-john"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1692016118,
+      "creation_date": 1692015222,
+      "question_id": 76898851,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898851/the-lower-bound-of-sdk-1-24-1-3-0-0-must-be-2-12-0-or-higher-to-enable-n",
+      "title": "The lower bound of &quot;sdk: &#39;&gt;=1.24.1 &lt;3.0.0&#39;&quot; must be 2.12.0 or higher to enable null safety"
+    },
+    {
+      "tags": [
+        "c#",
+        "json",
+        "entity-framework-core",
+        "ef-core-7.0"
+      ],
+      "owner": {
+        "reputation": 53,
+        "user_id": 9882771,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-eMfSAqoxT1M/AAAAAAAAAAI/AAAAAAAAACs/nCoeAfLJPqg/photo.jpg?sz=256",
+        "display_name": "Nima Ghomri",
+        "link": "https://stackoverflow.com/users/9882771/nima-ghomri"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016116,
+      "creation_date": 1692015135,
+      "last_edit_date": 1692016116,
+      "question_id": 76898838,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898838/how-to-use-ownsone-and-ownsmany-function-in-ef-core-7-to-store-an-array-of-strin",
+      "title": "How to use OwnsOne and OwnsMany function in EF Core 7 to store an array of string json in a column?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "mongodb",
+        "mongoose"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 21906549,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxbM1r63N6CBKrLaTsnEpG9q7L5Z7sldjfpgsO12=k-s256",
+        "display_name": "KevJo",
+        "link": "https://stackoverflow.com/users/21906549/kevjo"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016114,
+      "creation_date": 1692015517,
+      "last_edit_date": 1692016114,
+      "question_id": 76898879,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898879/specific-mongoose-filter",
+      "title": "Specific mongoose filter"
+    },
+    {
+      "tags": [
+        "azure",
+        "azure-cli"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 22376358,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTteBqslXhU_8dDNcH9HW99eILd2yrlANQElPt9NyOBgochs=k-s256",
+        "display_name": "denilson hernandez serpa",
+        "link": "https://stackoverflow.com/users/22376358/denilson-hernandez-serpa"
+      },
+      "is_answered": false,
+      "view_count": 37,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1692016112,
+      "creation_date": 1691772626,
+      "last_edit_date": 1691993489,
+      "question_id": 76885412,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76885412/managed-disk-restore",
+      "title": "Managed disk restore"
+    },
+    {
+      "tags": [
+        "azure",
+        "parameters",
+        "triggers",
+        "pipeline"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22387575,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtdlL7VtzDTH-csWNHMJhpOppZoUQXi3zugnaEdU2XhT=k-s256",
+        "display_name": "ItsMeS",
+        "link": "https://stackoverflow.com/users/22387575/itsmes"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1692016112,
+      "creation_date": 1692009294,
+      "last_edit_date": 1692016108,
+      "question_id": 76898196,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898196/i-need-to-run-two-set-of-data-in-single-adf-pipeline-at-2-different-times-using",
+      "title": "i need to run two set of data in single adf pipeline at 2 different times using single trigger"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "jquery-ui",
+        "jspdf",
+        "pdf.js"
+      ],
+      "owner": {
+        "reputation": 69,
+        "user_id": 20154643,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu2wSRdHVCDj0yZGVPz6KC5HwOCKuTUIGRxeYqFJ=k-s256",
+        "display_name": "PowerPoint Trenton",
+        "link": "https://stackoverflow.com/users/20154643/powerpoint-trenton"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1692016112,
+      "creation_date": 1692015181,
+      "question_id": 76898843,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898843/issues-with-setting-globalworkeroptions-workersrc-and-loading-jspdf-library-in-a",
+      "title": "Issues with setting GlobalWorkerOptions.workerSrc and loading jsPDF library in a PDF to JPG conversion web page"
+    },
+    {
+      "tags": [
+        "export",
+        "stata",
+        "cpu-word"
+      ],
+      "owner": {
+        "reputation": 329,
+        "user_id": 6135778,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/be46816c83d59dae6c43570cfd6da9ef?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Terence Tien",
+        "link": "https://stackoverflow.com/users/6135778/terence-tien"
+      },
+      "is_answered": false,
+      "view_count": 255,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1692016104,
+      "creation_date": 1598097264,
+      "last_edit_date": 1598097970,
+      "question_id": 63535896,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/63535896/how-to-control-the-format-to-export-discriminant-analysis-results-to-word-by-usi",
+      "title": "How to control the format to export discriminant analysis results to word by using asdoc in Stata?"
+    },
+    {
+      "tags": [
+        "flask",
+        "openapi",
+        "flask-restful"
+      ],
+      "owner": {
+        "reputation": 322,
+        "user_id": 5718591,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-t6R_22V8wGA/AAAAAAAAAAI/AAAAAAAAAC4/G6Da1N__d-A/photo.jpg?sz=256",
+        "display_name": "Md. Shohag Mia",
+        "link": "https://stackoverflow.com/users/5718591/md-shohag-mia"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016096,
+      "creation_date": 1692016096,
+      "question_id": 76898927,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898927/apiflask-app-returns-different-errors-with-status-code-but-why-spec-doesnt-have",
+      "title": "APIFlask app returns different errors with status code but why spec doesn&#39;t have that?"
+    },
+    {
+      "tags": [
+        "python",
+        "opencv",
+        "video-streaming"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 10675620,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-wgq4K-p2gwk/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gT8nqchXjWhOgMUYG4yTiDLDFJUg/mo/photo.jpg?sz=256",
+        "display_name": "Urooba Shahid",
+        "link": "https://stackoverflow.com/users/10675620/urooba-shahid"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016094,
+      "creation_date": 1692016016,
+      "last_edit_date": 1692016094,
+      "question_id": 76898920,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898920/how-do-i-run-a-full-video-from-a-directory-one-after-another-video-without-skipp",
+      "title": "how do I run a full video from a directory one after another video without skipping frames with python and opencv"
+    },
+    {
+      "tags": [
+        "python",
+        "dataframe",
+        "python-polars",
+        "lazyframe"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 19540716,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AItbvmlrDTO0L4KK2-3uQwUAiC5l7CtSKKN-5BPwfCBJ=k-s256",
+        "display_name": "Surender Reddy Chitteddy",
+        "link": "https://stackoverflow.com/users/19540716/surender-reddy-chitteddy"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016086,
+      "creation_date": 1692016086,
+      "question_id": 76898926,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898926/polars-exceptions-shapeerror-unable-to-vstack-dtypes-for-column-a-dont-mat",
+      "title": "Polars: exceptions.ShapeError: unable to vstack, dtypes for column &quot;a&quot; don&#39;t match: `f64` and `i64`"
+    },
+    {
+      "tags": [
+        "typescript",
+        "vite",
+        "react-typescript"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 17158462,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJzZ0fqoJJfgquBhiynkJdwCZSgnPqRWKMDtHB2o=k-s256",
+        "display_name": "Alexander",
+        "link": "https://stackoverflow.com/users/17158462/alexander"
+      },
+      "is_answered": false,
+      "view_count": 21,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016056,
+      "creation_date": 1692010870,
+      "last_edit_date": 1692016056,
+      "question_id": 76898372,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898372/getting-type-element-is-not-assignable-to-type-reactnode-when-creating-a",
+      "title": "Getting &quot;Type &#39;Element&#39; is not assignable to type &#39;ReactNode&#39;.&quot; when creating a React app with Vite"
+    },
+    {
+      "tags": [
+        "java",
+        "list",
+        "arraylist"
+      ],
+      "owner": {
+        "reputation": 491,
+        "user_id": 21144042,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/4SIEF.jpg?s=256&g=1",
+        "display_name": "Diego Borba",
+        "link": "https://stackoverflow.com/users/21144042/diego-borba"
+      },
+      "is_answered": false,
+      "view_count": 63,
+      "bounty_amount": 50,
+      "bounty_closes_date": 1692620847,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1692016047,
+      "creation_date": 1691610665,
+      "last_edit_date": 1691690450,
+      "question_id": 76870864,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76870864/get-the-items-difference-between-two-volatile-lists-in-java",
+      "title": "Get the items difference between two volatile lists in Java"
+    },
+    {
+      "tags": [
+        "vue.js",
+        "axios",
+        "vuejs3",
+        "vue-router"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 21957489,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/1008144286843589/picture?type=large",
+        "display_name": "Umer Ghouri",
+        "link": "https://stackoverflow.com/users/21957489/umer-ghouri"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016045,
+      "creation_date": 1692016045,
+      "question_id": 76898925,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898925/axios-not-working-with-same-page-with-different-query-parameter-vue3",
+      "title": "AXIOS not working with Same Page with different query parameter Vue3"
+    },
+    {
+      "tags": [
+        ".net",
+        "visual-studio",
+        "installation",
+        "deployment"
+      ],
+      "owner": {
+        "reputation": 2104,
+        "user_id": 576262,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/12147179bf84d8d0cb5b313f437521c7?s=256&d=identicon&r=PG",
+        "display_name": "J Collins",
+        "link": "https://stackoverflow.com/users/576262/j-collins"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1692016040,
+      "creation_date": 1692016040,
+      "question_id": 76898924,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898924/what-is-the-process-of-deploying-a-net-core-project-to-customers",
+      "title": "What is the process of deploying a .net core project to customers?"
+    },
+    {
+      "tags": [
+        "ios",
+        "swift",
+        "xcode",
+        "google-maps",
+        "ios-simulator"
+      ],
+      "owner": {
+        "reputation": 189,
+        "user_id": 2524751,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.stack.imgur.com/9cpSI.jpg?s=256&g=1",
+        "display_name": "weso",
+        "link": "https://stackoverflow.com/users/2524751/weso"
+      },
+      "is_answered": false,
+      "view_count": 354,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1692016035,
+      "creation_date": 1684396606,
+      "last_edit_date": 1686908882,
+      "question_id": 76278821,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76278821/warning-error-creating-lldb-target-at-path",
+      "title": "Warning: Error creating LLDB target at path"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "frontend",
+        "backend"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22388175,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtd-WaBgD-2QMOp1y0LCppnaYttx7BdSA8ib-q6Eqv1B=k-s256",
+        "display_name": "arb-ox",
+        "link": "https://stackoverflow.com/users/22388175/arb-ox"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016033,
+      "creation_date": 1692016033,
+      "question_id": 76898922,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898922/python-dataset-query-initiated-from-front-end",
+      "title": "Python dataset query initiated from front-end"
+    },
+    {
+      "tags": [
+        "arrays",
+        "go"
+      ],
+      "owner": {
+        "reputation": 8319,
+        "user_id": 7185318,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.stack.imgur.com/TW5nR.png?s=256&g=1",
+        "display_name": "Luatic",
+        "link": "https://stackoverflow.com/users/7185318/luatic"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1692016032,
+      "creation_date": 1692013361,
+      "question_id": 76898647,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898647/generics-clear-slice-of-array-efficiently-no-op-for-primitives",
+      "title": "Generics: Clear slice of array efficiently (no-op for primitives)"
+    },
+    {
+      "tags": [
+        "c#",
+        "blazor"
+      ],
+      "owner": {
+        "reputation": 590,
+        "user_id": 4818123,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/e9734aec5286ca639c05dd7ce7437afd?s=256&d=identicon&r=PG",
+        "display_name": "Takeshi Tokugawa YD",
+        "link": "https://stackoverflow.com/users/4818123/takeshi-tokugawa-yd"
+      },
+      "is_answered": true,
+      "view_count": 42,
+      "accepted_answer_id": 76884544,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1692016029,
+      "creation_date": 1691748411,
+      "question_id": 76882558,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76882558/c-could-not-resolve-the-symbol-refers-to-existing-property-while-nullable-check",
+      "title": "C# could not resolve the symbol refers to existing property while nullable check has been executed"
+    },
+    {
+      "tags": [
+        "css",
+        "svg"
+      ],
+      "owner": {
+        "reputation": 7306,
+        "user_id": 1243636,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/49f33be221bafabd5378cb0c2bdc69d6?s=256&d=identicon&r=PG",
+        "display_name": "akaRem",
+        "link": "https://stackoverflow.com/users/1243636/akarem"
+      },
+      "is_answered": true,
+      "view_count": 426879,
+      "protected_date": 1415906872,
+      "accepted_answer_id": 10768631,
+      "answer_count": 11,
+      "score": 412,
+      "last_activity_date": 1692016024,
+      "creation_date": 1338054087,
+      "last_edit_date": 1568689856,
+      "question_id": 10768451,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/10768451/inline-svg-in-css",
+      "title": "Inline SVG in CSS"
+    },
+    {
+      "tags": [
+        "android",
+        "android-jetpack-compose",
+        "broadcastreceiver"
+      ],
+      "owner": {
+        "reputation": 23,
+        "user_id": 7312631,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/M3V91.jpg?s=256&g=1",
+        "display_name": "Dreghici Vlad",
+        "link": "https://stackoverflow.com/users/7312631/dreghici-vlad"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692016002,
+      "creation_date": 1692016002,
+      "question_id": 76898919,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76898919/notify-compose-of-successfully-pinning-a-widget-to-home-screen-from-the-app",
+      "title": "Notify compose of successfully pinning a widget to home screen from the app"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 22388132,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtfQ9H7l4n-gH8RjCqsac_uaD66_SI_fNlTaYeQgc9276Q=k-s256",
+        "display_name": "Rin",
+        "link": "https://stackoverflow.com/users/22388132/rin"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "closed_date": 1692016038,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1692015992,
+      "creation_date": 1692015992,
+      "question_id": 76898917,
+      "link": "https://stackoverflow.com/questions/76898917/nullpointerexception-cannot-invoke-string-length-because-it-is-null",
+      "closed_reason": "Duplicate",
+      "title": "NullPointerException: Cannot invoke &quot;String.length()&quot; because it is null"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 286
+}
