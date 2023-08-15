@@ -1,0 +1,3 @@
+beautifulsoup4==4.12.2
+requests
+StackAPI==0.2.0
