@@ -24,5 +24,6 @@ def extract_questions(url):
 
 
 results = extract_questions(questions_resolved_url)
+results.append(*results)
 
 print(results[0])

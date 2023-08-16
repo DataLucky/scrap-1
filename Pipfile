@@ -10,6 +10,11 @@ requests = "*"
 stackapi = "*"
 pandas = "*"
 httpx = "*"
+matplotlib = "*"
+jupyterlab = "*"
+notebook = "*"
+python-decouple = "*"
+spacy = "*"
 
 [dev-packages]
 

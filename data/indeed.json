@@ -1,0 +1,540 @@
+{
+  "partial": false,
+  "total": 36,
+  "data": [
+    {
+      "id": "b24fea3-0d4c-4115-b63b-66231c75c161",
+      "title": "Senior Embedded Software Engineer",
+      "company": {
+        "name": "Grote Industries",
+        "location": "Madison, IN 47250"
+      },
+      "salary": "Estimated $104K - $132K a year",
+      "type": "Full-time",
+      "posted": "PostedPosted 11 days ago",
+      "descriptions": [
+        "BS/MS/PhD degree in Computer Science, Computer Engineering, Electrical Engineering, Systems Engineering, or related.",
+        "0-3 years of experience."
+      ]
+    },
+    {
+      "id": "dbc36beb-5b0f-4e80-9b97-ca37e2158ba3",
+      "title": "Associate Principal, Software Engineering: Middleware",
+      "company": {
+        "name": "Options Clearing Corporation",
+        "location": "Hybrid remote in Chicago, IL"
+      },
+      "salary": "Estimated $127K - $161K a year",
+      "type": "Full-time",
+      "posted": "PostedPosted 30+ days ago",
+      "descriptions": [
+        "Provide subject matter expertise for implementation and ongoing support of Middleware integration technologies in production and non-production environments."
+      ]
+    },
+    {
+      "id": "9b133e93-23e4-4d97-8344-3ff56b4954d3",
+      "title": "ASP.Net C# Blazor Application Developer",
+      "company": {
+        "name": "Spectrotel",
+        "location": "Neptune City, NJ 07753"
+      },
+      "salary": "From $100,000 a year",
+      "type": "Full-time",
+      "posted": "EmployerActive 17 days ago",
+      "descriptions": [
+        "A growing, dynamic company based in Monmouth County New Jersey is seeking an experienced developer with ability to design and maintain secure, enterprise-level,\u2026"
+      ]
+    },
+    {
+      "id": "01df4c10-b4ca-4001-ba74-c96611322b58",
+      "title": "Python developer",
+      "company": {
+        "name": "Virtusa",
+        "location": "Hybrid remote in Pittsburgh, PA"
+      },
+      "salary": "Estimated $102K - $130K a year",
+      "type": "Full-time",
+      "posted": "PostedToday",
+      "descriptions": [
+        "D Python/Spark onsite position.",
+        "Candidate should have 6+yrs of experience in Python & Spark.",
+        "Must have Hands-on Python scripting and Spark programming."
+      ]
+    },
+    {
+      "id": "fcfbcaf3-ee24-4308-a359-5566335a08a1",
+      "title": "Senior Java Developer (ISD Developer V)",
+      "company": {
+        "name": "Navy Federal Credit Union",
+        "location": "Pensacola, FL 32526"
+      },
+      "salary": "",
+      "type": "",
+      "posted": "PostedPosted 5 days ago",
+      "descriptions": [
+        "Recent experience using Test Driven development in an agile environment.",
+        "Exposure and knowledge to agile tools such as JIRA, Pivotal Tracker, and other\u2026"
+      ]
+    },
+    {
+      "id": "354c2f47-e02b-44ed-a275-9558ab5441bf",
+      "title": "",
+      "company": {
+        "name": "",
+        "location": ""
+      },
+      "salary": "",
+      "type": "",
+      "posted": "",
+      "descriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "b62a6c59-b7be-47ea-acea-29899d56b3f1",
+      "title": "Accela Software Developer",
+      "company": {
+        "name": "Peraton",
+        "location": "Remote in United States"
+      },
+      "salary": "$112,000 - $179,000 a year",
+      "type": "Full-time",
+      "posted": "PostedPosted 7 days ago",
+      "descriptions": [
+        "Peraton is searching for a talented Accela Software Developer to become part of Peraton\u2019s Citizens Security & Public Services, Government Services, County of\u2026"
+      ]
+    },
+    {
+      "id": "f348c741-343c-4be2-a726-d131caba91d6",
+      "title": "Junior Developer",
+      "company": {
+        "name": "MDfit",
+        "location": "Wexford, PA 15090"
+      },
+      "salary": "Estimated $60.9K - $77.2K a year",
+      "type": "",
+      "posted": "PostedPosted 30+ days ago",
+      "descriptions": [
+        "We are seeking the right individual to join our team.",
+        "You will be focusing on our next generation platform, MDfit, to make highly scalable applications using\u2026"
+      ]
+    },
+    {
+      "id": "852d2d66-1233-46a4-aaa1-7454d957acc6",
+      "title": "Software Developer",
+      "company": {
+        "name": "CodingBlades",
+        "location": "Remote"
+      },
+      "salary": "$74,140 - $167,284 a year",
+      "type": "Part-time",
+      "posted": "EmployerActive 6 days ago",
+      "descriptions": [
+        "Job description - *We need a web developer and designer role on urgently basis.",
+        "Perks and Benefits Work From Home Available hybrid Mode available."
+      ]
+    },
+    {
+      "id": "ff9f01f2-87da-4ccc-b8be-705a683328c4",
+      "title": "Junior Frontend Developer - Full-time, Remote",
+      "company": {
+        "name": "Bluelight Consulting",
+        "location": "Remote in United States"
+      },
+      "salary": "Estimated $65.7K - $83.2K a year",
+      "type": "Full-time",
+      "posted": "PostedPosted 30+ days ago",
+      "descriptions": [
+        "Bluelight Consulting is seeking a Junior Frontend developer to join its growing team.",
+        "Do you feel you could be the best developer on your team?"
+      ]
+    },
+    {
+      "id": "66918319-4ed2-42ed-9270-53cd94065624",
+      "title": "Signal Processing Software Engineer (On-Site)",
+      "company": {
+        "name": "Raytheon",
+        "location": "Dallas, TX\u00a0(Northeast Dallas area)"
+      },
+      "salary": "Full-time",
+      "type": "",
+      "posted": "EmployerActive 7 days ago",
+      "descriptions": [
+        "TX360: Dallas - North Bldg 13510 North Central Expressway North Building, Dallas, TX, 75243 USA.",
+        "By joining our Engineering team you\u2019ll have the opportunity to\u2026"
+      ]
+    },
+    {
+      "id": "68809f41-354b-4680-a3b1-75148b7b895e",
+      "title": "",
+      "company": {
+        "name": "",
+        "location": ""
+      },
+      "salary": "",
+      "type": "",
+      "posted": "",
+      "descriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "719403e5-97b3-4901-adf5-48ada57a67eb",
+      "title": "Web Developer",
+      "company": {
+        "name": "The Trevor Project",
+        "location": "Remote"
+      },
+      "salary": "$75,000 - $90,000 a year",
+      "type": "Full-time",
+      "posted": "PostedPosted 7 days ago",
+      "descriptions": [
+        "The Trevor Project is committed to the full inclusion of all qualified individuals.",
+        "As part of this commitment, we will ensure that persons with disabilities\u2026"
+      ]
+    },
+    {
+      "id": "38d4014a-0a30-421e-a635-bc4960dd0bc6",
+      "title": "Senior Software Engineer",
+      "company": {
+        "name": "Raytheon",
+        "location": "Sterling, VA 20166"
+      },
+      "salary": "Full-time",
+      "type": "",
+      "posted": "PostedJust posted",
+      "descriptions": [
+        "Participate in agile sprints to support the execution of data management and data cataloging activities leading to improvements in the Data Fabric that supports\u2026"
+      ]
+    },
+    {
+      "id": "9a139a7b-10bf-457a-9f01-3d4f60f47239",
+      "title": "Innovation Studio Software Developer",
+      "company": {
+        "name": "Teaching Lab",
+        "location": "Remote"
+      },
+      "salary": "$106,000 - $160,335 a year",
+      "type": "Full-time",
+      "posted": "PostedPosted 1 day ago",
+      "descriptions": [
+        "In addition, this developer will build and maintain a reliable experimentation infrastructure.",
+        "Supporting the NSF grant will take an estimated 50% of this\u2026"
+      ]
+    },
+    {
+      "id": "7dc4c629-255b-4eed-892f-4e23f0fe1d71",
+      "title": "Java full stack Developer",
+      "company": {
+        "name": "HARAMAIN SYSTEMS INC.",
+        "location": "Pittsburgh, PA 15106"
+      },
+      "salary": "Estimated $86.1K - $109K a year",
+      "type": "Full-time +2",
+      "posted": "PostedPosted 1 day ago",
+      "descriptions": [
+        "Position Title : Java full stack Developer.",
+        "Expert level skills in an Object Oriented language (ex: Java, C#), REST API."
+      ]
+    },
+    {
+      "id": "1f8a40d3-6c61-409e-b161-e6a6d6eb19f1",
+      "title": "Junior Software Developer",
+      "company": {
+        "name": "KesarWeb",
+        "location": "Remote in Detroit, MI"
+      },
+      "salary": "$82,000 - $96,000 a year",
+      "type": "Full-time",
+      "posted": "PostedPosted 11 days ago",
+      "descriptions": [
+        "We are looking for an enthusiastic junior software developer to join our experienced software design team.",
+        "To ensure success as a junior software developer, you\u2026"
+      ]
+    },
+    {
+      "id": "54465a31-2653-4ab2-8435-aec9a9321d18",
+      "title": "",
+      "company": {
+        "name": "",
+        "location": ""
+      },
+      "salary": "",
+      "type": "",
+      "posted": "",
+      "descriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "c9e64ba3-3684-403e-a192-8ccc5a417778",
+      "title": "Python Developer",
+      "company": {
+        "name": "AppsIntegration.Inc",
+        "location": "Dallas, TX 75204\u00a0(Deep Ellum area)"
+      },
+      "salary": "$60,468 - $121,569 a year",
+      "type": "Contract",
+      "posted": "EmployerActive 9 days ago",
+      "descriptions": [
+        "We are looking for a Python Developer to join our engineering team and help us develop and maintain various software products."
+      ]
+    },
+    {
+      "id": "da87d66a-c1f1-41b8-8cbf-76c30b781082",
+      "title": "Software Developer",
+      "company": {
+        "name": "GovGig",
+        "location": "Remote"
+      },
+      "salary": "$100,000 - $150,000 a year",
+      "type": "Full-time +1",
+      "posted": "EmployerActive 6 days ago",
+      "descriptions": [
+        "Collaborate with other developers to design solutions that meet the needs of our customers.",
+        "We are looking for a talented Software Engineer to join our team."
+      ]
+    },
+    {
+      "id": "1a353b4b-a947-4d9a-a567-c3aeb8e5f158",
+      "title": "Engineer - Software",
+      "company": {
+        "name": "LINK CORPORATE SIOUX CENTER",
+        "location": "Grand Rapids, MI 49512"
+      },
+      "salary": "$70,000 - $85,000 a year",
+      "type": "Full-time",
+      "posted": "EmployerActive 6 days ago",
+      "descriptions": [
+        "The Software Engineer will be primarily responsible for the design, development, and release of embedded software within an application lifecycle management\u2026"
+      ]
+    },
+    {
+      "id": "1359bdb1-6e38-44e4-a6a1-cf8d9dbb9ce3",
+      "title": "Machine Learning Engineer Graduate (TikTok Recommendation) - 2024 Start (BS/MS)",
+      "company": {
+        "name": "TikTok",
+        "location": "Seattle, WA"
+      },
+      "salary": "$97,280 - $155,040 a year",
+      "type": "",
+      "posted": "PostedPosted 8 days ago",
+      "descriptions": [
+        "TikTok is the leading destination for short-form mobile video.",
+        "Our mission is to inspire creativity and bring joy.",
+        "Responsibilities - What You'II Do."
+      ]
+    },
+    {
+      "id": "19a33559-e1ea-4bad-90dd-3552db5c2587",
+      "title": "Website Software Developer, Secret Clearance (AHT)",
+      "company": {
+        "name": "Northrop Grumman",
+        "location": "Kirtland AFB, NM"
+      },
+      "salary": "$66,600 - $99,800 a year",
+      "type": "",
+      "posted": "PostedPosted 5 days ago",
+      "descriptions": [
+        "Location: Kirtland AFB, NM, USA.",
+        "Citizenship Required: United States Citizenship.",
+        "Telecommute: No- Teleworking not available for this position."
+      ]
+    },
+    {
+      "id": "5c63e3f7-8f39-492f-bcf4-b796affea87d",
+      "title": "",
+      "company": {
+        "name": "",
+        "location": ""
+      },
+      "salary": "",
+      "type": "",
+      "posted": "",
+      "descriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "f44ad898-6d60-4052-828b-f56704069372",
+      "title": "Angular Developer",
+      "company": {
+        "name": "ClinTech Health",
+        "location": "Remote"
+      },
+      "salary": "$55 - $65 an hour",
+      "type": "Contract",
+      "posted": "EmployerActive 6 days ago",
+      "descriptions": [
+        "Angular developer: 5 years (Required).",
+        "Solid frontend Angular developer with proven experience in developing UI for web applications."
+      ]
+    },
+    {
+      "id": "8d8de8d3-e7cc-43ac-8f13-00125ecb869d",
+      "title": "Junior Software Developer",
+      "company": {
+        "name": "Vetro Tech Inc",
+        "location": "Remote in Austin, TX"
+      },
+      "salary": "$84,000 - $98,000 a year",
+      "type": "Full-time",
+      "posted": "EmployerActive 6 days ago",
+      "descriptions": [
+        "We are looking for an enthusiastic junior software developer to join our experienced software design team.",
+        "To ensure success as a junior software developer, you\u2026"
+      ]
+    },
+    {
+      "id": "33391737-c9cd-4bbe-8ec0-3cda39b1a8fe",
+      "title": "JavaScript Developer",
+      "company": {
+        "name": "Mindfire Technology",
+        "location": "Indiana"
+      },
+      "salary": "Estimated $92.9K - $118K a year",
+      "type": "",
+      "posted": "PostedPosted 30+ days ago",
+      "descriptions": [
+        "At Mindfire we not only assist our key clients with innovative projects, but we also assist them in finding truly talented engineers."
+      ]
+    },
+    {
+      "id": "13242233-043c-414c-9dcf-140b50e936ed",
+      "title": "Python Programmer who enjoys helping people smile $70k-$100k",
+      "company": {
+        "name": "Lifecorp",
+        "location": "Arlington, TX"
+      },
+      "salary": "$70,000 - $100,000 a year",
+      "type": "Full-time",
+      "posted": "EmployerActive 6 days ago",
+      "descriptions": [
+        "Python Programmer who enjoys helping people smile $70k-$100k.",
+        "Our clients change the world and we'd like you to help.",
+        "So we prefer lazy programmers."
+      ]
+    },
+    {
+      "id": "c2fe6992-1b53-44d6-9314-ba16f1d904d6",
+      "title": "Junior Software Developer (REMOTE)",
+      "company": {
+        "name": "ThunderYard",
+        "location": "Remote"
+      },
+      "salary": "Estimated $66.3K - $83.9K a year",
+      "type": "Full-time",
+      "posted": "PostedToday",
+      "descriptions": [
+        "Participates in development, testing and delivery of software products or components to maintain existing systems.",
+        "AWS, Angular, Test Scripts, GitHub."
+      ]
+    },
+    {
+      "id": "fbeb1e41-279c-427f-b515-28fb42ac666f",
+      "title": "",
+      "company": {
+        "name": "",
+        "location": ""
+      },
+      "salary": "",
+      "type": "",
+      "posted": "",
+      "descriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "a68e8fa4-0696-4cb4-8218-8a017b3f2abb",
+      "title": "Java Developer",
+      "company": {
+        "name": "Emonics LLC",
+        "location": "Fort Worth, TX 76116\u00a0(Ridglea North area)"
+      },
+      "salary": "$60,000 - $100,000 a year",
+      "type": "Contract",
+      "posted": "EmployerActive 7 days ago",
+      "descriptions": [
+        "BS/MS degree in Computer Science, Engineering or a related subject.",
+        "Proven working experience in HTML CSS.",
+        "Excellent knowledge of Relational Databases, SQL and\u2026"
+      ]
+    },
+    {
+      "id": "6c35eeb6-8aeb-40a2-a133-6ed1d82afe7e",
+      "title": "Flutter Developer",
+      "company": {
+        "name": "Cascadian Software",
+        "location": "Remote"
+      },
+      "salary": "$50 - $65 an hour",
+      "type": "Contract",
+      "posted": "EmployerActive 5 days ago",
+      "descriptions": [
+        "Previous experience as a software developer or similar role.",
+        "We are looking for a mid level developer with experience in Dart/Flutter.",
+        "This is a contract role."
+      ]
+    },
+    {
+      "id": "967374ec-6718-4f37-ba2c-8fb4161c4bdc",
+      "title": "NodeJS API Developer",
+      "company": {
+        "name": "Resolve Tech Solutions Inc.",
+        "location": "Irving, TX 75061\u00a0(Pioneer area)"
+      },
+      "salary": "$100,498 - $106,301 a year",
+      "type": "Contract",
+      "posted": "EmployerActive 6 days ago",
+      "descriptions": [
+        "We are professional and agile.",
+        "Familiarity with agile development methodologies is a plus.",
+        "RESOLVETECH SOLUTIONS INDIA PRIVATE LIMITED is a medium business in\u2026"
+      ]
+    },
+    {
+      "id": "25a429fd-e00b-4e9a-a117-bb34ddf50d9b",
+      "title": "FrontEnd (React) Developer - Remote",
+      "company": {
+        "name": "CEDARS-SINAI",
+        "location": "Remote in Los Angeles, CA"
+      },
+      "salary": "$103,900 - $166,100 a year",
+      "type": "Full-time",
+      "posted": "PostedPosted 21 days ago",
+      "descriptions": [
+        "Grow your career at Cedars-Sinai!",
+        "The Consumer Digital Innovation team at Cedars-Sinai understands that true mobile and web transformation and the optimization\u2026"
+      ]
+    },
+    {
+      "id": "7bf366f8-b233-4f28-8146-91f37564a901",
+      "title": "Junior Software Developer",
+      "company": {
+        "name": "KesarWeb",
+        "location": "Remote in Detroit, MI"
+      },
+      "salary": "$82,000 - $96,000 a year",
+      "type": "Full-time",
+      "posted": "PostedPosted 11 days ago",
+      "descriptions": [
+        "We are looking for an enthusiastic junior software developer to join our experienced software design team.",
+        "To ensure success as a junior software developer, you\u2026"
+      ]
+    },
+    {
+      "id": "750015ed-5879-46a4-8a2d-0f50bb862fe9",
+      "title": "",
+      "company": {
+        "name": "",
+        "location": ""
+      },
+      "salary": "",
+      "type": "",
+      "posted": "",
+      "descriptions": [
+        ""
+      ]
+    }
+  ]
+}

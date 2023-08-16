@@ -7,7 +7,7 @@ questions = base_url + "/questions?site=stackoverflow&pagesize=50"
 
 response = requests.get(questions)
 
+
 if response.ok:
-    json_response = response.json()
-    with open("response.json", "w") as file:
-        file.write(json.dumps(json_response))
+    with open("indeed.html", "w") as file:
+        file.write(response.text)
